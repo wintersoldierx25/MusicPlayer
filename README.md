@@ -145,7 +145,7 @@ For any kind of help join [our support group](https://t.me/AsmSupport) or raise 
 
 ## ✨ <a name="credits"></a>Credits
 
-- [Me](https://github.com/WinterSoldier x25) for [Noting](https://github.com/wintersoldierx25/MusicPlayer) 😬
+- [Me](https://github.com/WinterSoldierx25) for [Noting](https://github.com/wintersoldierx25/MusicPlayer) 😬
 - And Thanks To All [Contributors](https://github.com/AsmSafone/MusicPlayer/graphs/contributors)! ❤️
 ## 📃 <a name="license"></a>License
 Music Player is licenced under the GNU Affero General Public License v3.0.
