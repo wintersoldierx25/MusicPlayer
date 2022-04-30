@@ -141,7 +141,7 @@ New languages, bug fixes and improvements following
 
 ## 🛫 <a name="supports"></a>Supports
 
-For any kind of help join [our support group](https://t.me/AsmSupport) or raise an [issue](https://github.com/AsmSafone/MusicPlayer/issues).
+For any kind of help join [our support group](https://t.me/bromusic1303) or raise an [issue](https://github.com/wintersoldierx25/MusicPlayer/issues).
 
 ## ✨ <a name="credits"></a>Credits
 
