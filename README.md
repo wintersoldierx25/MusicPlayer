@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 <br>
-    <img src="https://img.shields.io/github/license/AsmSafone/MusicPlayer?style=for-the-badge" alt="LICENSE">
+    <img src="https://img.shields.io/github/license/wintersoldierx25/MusicPlayer?style=for-the-badge" alt="LICENSE">
     <img src="https://img.shields.io/github/contributors/wintersoldierx25/MusicPlayer?style=for-the-badge" alt="Contributors">
     <img src="https://img.shields.io/github/repo-size/wintersoldierx25/MusicPlayer?style=for-the-badge" alt="Repository Size"> <br>
     <img src="https://img.shields.io/github/forks/wintersoldierx25/MusicPlayer?style=for-the-badge" alt="Forks">
